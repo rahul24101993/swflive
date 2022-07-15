@@ -1,0 +1,1 @@
+(this.webpackJsonpswflearning=this.webpackJsonpswflearning||[]).push([[6],{394:function(e,s,r){"use strict";var t;r(54);t={retrievePropertyLabelDisplay:function(e){var s="PROPERTY_LABEL_AT_SIDE";return e&&("titled"===e.toLowerCase()?s="PROPERTY_LABEL_AT_TOP":"headless"===e.toLowerCase()&&(s="NO_PROPERTY_LABEL")),s}},s.a=t}}]);
